@@ -1,0 +1,29 @@
+{
+  "name": "myfood-app",
+  "version": "1.0.0",
+  "description": "Its a clone of famous food apps",
+  "main": "App.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish-commits/Swiggy-Clone-app.git"
+  },
+  "author": "Manish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish-commits/Swiggy-Clone-app/issues"
+  },
+  "homepage": "https://github.com/Manish-commits/Swiggy-Clone-app#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
