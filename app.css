@@ -44,6 +44,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .res-card {
@@ -51,7 +52,7 @@
     width: 250px;
     border-radius: 3px;
     padding: 5px;
-    margin: 0px 10px;
+    margin: 10px 10px;
 }
 
 .res-card > img {
